@@ -1,12 +1,19 @@
 h2{
     text-align: center;
     color: azure;
-    background-color: rgb(73, 73, 244);
+    background-color: blue;
+    border: 1px solid yellow
+    
+    
 }
 
+/* body{
+    background-color: lightgray;
+} */
 
-
-body{
-    background-color: rgb(214, 236, 237);
+.container{
+    border: 1px solid black;
+    width: 100%;
+    background-color: bisque;
 }
 
